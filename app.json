@@ -16,23 +16,23 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "1250450587"
+      "value": "6283520099"
     },
     "APP_ID":{
       "description": "your app id, take it from my.telegram.org",
-      "value": ""
+      "value": "26412232"
     },
     "DATABASE_URL": {
       "description": "Paste your mongo db url https://youtu.be/qFB0cFqiyOM?si=9rfd9AawasXLp_oE",
-      "value": "url"
+      "value": "mongodb+srv://akashmondal317689:tFW9FDQXA0zEvLPo@cluster0.qspl11g.mongodb.net/?retryWrites=true&w=majority"
     },
     "DATABASE_NAME":{
       "description": "Enter your DATABASE_NAME ",
-      "value": "ultroidxTeam"
+      "value": "tsunadebot"
     },
     "SHORTLINK_URL":{
       "description": "Enter your SHORTLINK_URL , add yr shortner url . ",
-      "value": "api.shareus.io"
+      "value": "tinyurl.com"
     },
     "SHORTLINK_API":{
       "description": "Enter yourSHORTLINK_API , add yr shortner api ",
@@ -44,15 +44,15 @@
     },
     "VERIFY_EXPIRE":{
       "description": "yr token timeout in seconds, 86400 = 24h",
-      "value": "86400"
+      "value": "400"
     },
     "API_HASH":{
       "description": "your api hash, take it from my.telegram.org",
-      "value": ""
+      "value": "6gsttaf7agjwuwyahquq8atfwqwhai"
     },
     "CHANNEL_ID":{
       "description": "make a channel (database channel), then make the bot as admin in channel, and it's id",
-      "value": "-100"
+      "value": "-1002084080921"
     },
     "FORCE_SUB_CHANNEL":{
       "description": "id of the channel or group, if you want enable force sub feature else put 0",
@@ -68,7 +68,7 @@
     },
     "ADMINS": {
       "description": "A space separated list of user_ids of Admins, they can only create links",
-      "value": "",
+      "value": "6283520099",
       "required": false
     },
     "PROTECT_CONTENT": {
